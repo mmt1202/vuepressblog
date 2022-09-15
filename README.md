@@ -21,7 +21,7 @@ $ npm i -g yarn
 # 设置yarn淘宝源，使用npm的同学，也是可以设置淘宝源
 $ yarn config set registry https://registry.npm.taobao.org
 
-$ git clone https://github.com/it235/it235-vuepress.git
+$ git clone https://github.com/mmt1202/vuepressblog.git
 
 # 打开CMD命令行窗口
 $ cd it235-vuepress
