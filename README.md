@@ -1,12 +1,10 @@
 # `Vuepress`博客源码
 
-> 配套视频地址：https://www.bilibili.com/video/BV17t41177cr
 >
-> github预览地址：https://it235.github.io/
+> github预览地址：https://github.com/mmt1202/vuepressblog#readme
 >
-> gitee预览地址：https://it235.gitee.io/
 
-> 君哥博客地址：https://www.it235.com/
+> 小李不理博客地址：http://1.116.147.190/dist/
 
 
 
